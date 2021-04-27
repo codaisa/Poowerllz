@@ -4,8 +4,6 @@
   Fala aí, pode me chamar de <strong> Sá</strong>. É um prazer te ver em meu portfólio!
 </p>
 
-<img src="https://i.ibb.co/cYhz8DY/Rectangle-18.png" min-width="428px" max-width="428px" width="428px" align="center" alt="Code">
-
 <p align="left">
   Você irá encontrar em meus repositórios um pouco do meu trabalho em <strong> Front-End & Back-End </strong> <br/>em aplicações mobiles e web.
 </p>
