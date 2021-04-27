@@ -1,6 +1,6 @@
 <!-- <img src="https://i.ibb.co/k8KjrYK/image-10.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code"> -->
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" min-width="400px" max-width="400px" width="400px" />
+  <img align="right" alt="GIF" src="https://github.com/Poowerllz/Poowerllz/blob/main/code.gif?raw=true" min-width="400px" max-width="400px" width="400px" />
 
 <p align="left"> 
   Fala aí, pode me chamar de <strong> Sá</strong>. É um prazer te ver em meu portfólio!
