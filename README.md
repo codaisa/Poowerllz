@@ -1,30 +1,39 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
+<img src="https://i.ibb.co/k8KjrYK/image-10.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <p align="left"> 
-  Olá meu nome é Iuri, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI Designer</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Fala aí, pode me chamar de <strong> Sá</strong>. É um prazer te ver em meu portfólio!
+</p>
+
+<img src="https://i.ibb.co/cYhz8DY/Rectangle-18.png" min-width="428px" max-width="428px" width="428px" align="center" alt="Code">
+
+<p align="left">
+  Você irá encontrar em meus repositórios um pouco do meu trabalho em <strong> Front-End & Back-End </strong> <br/>em aplicações mobiles e web.
+</p>
+
+<p align="left"> 
+  Atualmente estou disponível para freelas, vamos embarcar em uma jornada juntos? 
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap e UI Design.</strong>
+  💼 Frameworks & Linguagens: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, React.js, Next.js e outros...</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, Vercel, Git and GitHub.</strong>
+  🌱 Ferramentas: <strong>VSCode, Figma, Git & GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  🔭 Se você estiver interessado em conversar sobre algum projeto, pode me chamar! ⤵️
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  <a href="https://www.instagram.com/sa_filho/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  <a href="https://www.linkedin.com/in/elzevir-de-sousa-s%C3%A1-filho-a37286187/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
-</p>  
+  <a href="https://www.facebook.com/elzevir.sa.filho/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
