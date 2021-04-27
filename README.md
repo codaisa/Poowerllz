@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Você irá encontrar em meus repositórios um pouco do meu trabalho em <strong> Front-End & Back-End </strong> <br/>em aplicações mobiles e web.
+  Você irá encontrar em meus repositórios um pouco do meu trabalho em <strong> Front-End & Back-End </strong> em aplicações mobiles e web.
 </p>
 
 <p align="left"> 
