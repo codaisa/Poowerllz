@@ -23,10 +23,6 @@
 </p>
 
 <p align="left">
-  🔭 Se você estiver interessado em conversar sobre algum projeto, pode me chamar! ⤵️
-</p>
-
-<p align="left">
   <a href="https://www.instagram.com/sa_filho/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
