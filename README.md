@@ -3,23 +3,19 @@
   <img align="right" alt="GIF" src="https://github.com/Poowerllz/Poowerllz/blob/main/code2.gif?raw=true" min-width="300px" max-width="300px" width="300px" />
 
 <p align="left"> 
-  Fala aí, pode me chamar de <strong> Sá</strong>. É um prazer te ver em meu portfólio!
+  Speak up! call me <strong> Sá</strong>. I'm happy to see you here!
 </p>
 
 <p align="left">
-  Você irá encontrar em meus repositórios um pouco do meu trabalho em <strong> Front-End & Back-End </strong> em aplicações mobiles e web.
-</p>
-
-<p align="left"> 
-  Atualmente estou disponível para freelas, vamos embarcar em uma jornada juntos? 
+  In my repositories there is a lot of what I've been doing in <strong>Front and Back-End</strong> mainly in Web and Mobile applications
 </p>
 
 <p align="left">
-  💼 Frameworks & Linguagens: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, React.js, Next.js e outros...</strong>
+  💼 Frameworks and langs: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, React.js, Next.js and others...</strong>
 </p>
 
 <p align="left">
-  🌱 Ferramentas: <strong>VSCode, Figma, Git & GitHub.</strong>
+  🌱 Tools: <strong>VSCode, Figma, Git & GitHub.</strong>
 </p>
 
 <p align="left">
