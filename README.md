@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" width="300px" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" width="300" />
 
 <p align="left">
   Speak up! call me <strong> Sá</strong>. I'm happy to see you here!
