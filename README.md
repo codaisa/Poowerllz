@@ -1,6 +1,4 @@
-<!-- <img src="https://i.ibb.co/k8KjrYK/image-10.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code"> -->
-
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" max-width="200px" width="200px" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" max-width="300px" width="300px" />
 
 <p align="left"> 
   Speak up! call me <strong> Sá</strong>. I'm happy to see you here!
