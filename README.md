@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  In my repositories there is a lot of what I've been doing in <strong>Front and Back-End</strong> mainly in Web and Mobile applications
+  In my repositorie there is a lot of what I've been doing in <strong>Front and Back-End</strong> mainly in Web and Mobile applications
 </p>
 
 <p align="left">
