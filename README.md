@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" width="300"/>
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/901121346078117958/985685272362618910/Frame_1_4.png" />
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/901121346078117958/985684576162705408/Frame_1.png" />
 
 <p align="left">
   Speak up! call me <strong> Sá</strong>. I'm happy to see you here!
