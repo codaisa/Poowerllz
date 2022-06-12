@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" width="300" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" height="225"/>
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/901121346078117958/985677542285529088/linha-imagem-animada-0009.gif"  height="225" />
 
