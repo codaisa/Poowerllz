@@ -1,11 +1,11 @@
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" max-width="300px" width="300px" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" width="300px" />
 
-<p align="left"> 
+<p align="left">
   Speak up! call me <strong> Sá</strong>. I'm happy to see you here!
 </p>
 
 <p align="left">
-  In my repositorie there is a lot of what I've been doing in <strong>Front and Back-End</strong> mainly in Web and Mobile applications
+  In my repositories there is a lot of what I've been doing in <strong>Front and Back-End</strong> mainly in Web and Mobile applications
 </p>
 
 <p align="left">
@@ -26,4 +26,3 @@
   <a href="https://www.facebook.com/elzevir.sa.filho/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
-
