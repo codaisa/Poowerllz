@@ -1,5 +1,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1518535/screenshots/7927296/media/c1574c1dec3fbc5f8cacb35683586bbf.gif" width="300" />
 
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/901121346078117958/985677542285529088/linha-imagem-animada-0009.gif"  height="225" />
+
 <p align="left">
   Speak up! call me <strong> Sá</strong>. I'm happy to see you here!
 </p>
@@ -9,11 +11,11 @@
 </p>
 
 <p align="left">
-  💼 Frameworks and langs: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, React.js, Next.js and others...</strong>
+  💼 Frameworks and langs: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, React.js, React-Native, Next.js and others...</strong>
 </p>
 
 <p align="left">
-  🌱 Tools: <strong>VSCode, Figma, Git & GitHub.</strong>
+  🌱 Tools: <strong>VSCode, Figma, AdobeXD, Git...</strong>
 </p>
 
 <p align="left">
